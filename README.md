@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 - ⚡ Fun fact **I am Funny**
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aslm maysara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aslm maysara" height="30" width="40" /></a>
